@@ -7,8 +7,7 @@
 <img src="captures/6.png">
 <img src="captures/7.png">
 <img src="captures/8.png">
-<<<<<<< HEAD
 <img src="captures/9.png">
-=======
+
 <img src="captures/9.png">
->>>>>>> ae14413846630e292a54091573e08ad146868a3a
+

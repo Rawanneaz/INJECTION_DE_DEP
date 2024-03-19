@@ -9,5 +9,4 @@
 <img src="captures/8.png">
 <img src="captures/9.png">
 
-<img src="captures/9.png">
 
